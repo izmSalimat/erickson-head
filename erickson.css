@@ -1,0 +1,31 @@
+header .header-column {
+	min-width: 14%;
+	max-width:20%;
+	float: left;
+	margin-right: 30px;
+}
+header {
+	width: 1200px;
+	margin:0 auto;
+	margin-top: 20px;
+}
+header .header-column .header-icon img {
+  max-width: 60px;
+}
+header .header-column .header-icon {
+  display: inline-block;
+}
+header .header-column li{
+  list-style-type: none;
+}
+header ul{
+	padding-left: 0;
+	margin-top: 0;
+}
+header .header-column .city ,
+header .header-column .header-text {
+	color: #f1592a;
+}
+header .header-column-name{
+	margin-top: 10px;
+}
